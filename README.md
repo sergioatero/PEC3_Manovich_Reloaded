@@ -39,3 +39,45 @@ _Inicio_. (2022, 14 junio). VRPharma - Virtual Reality for Patient Care. https:/
 BBC News Mundo. (2016b, octubre 5). _5 métodos para controlar el dolor con la mente_. https://www.bbc.com/mundo/noticias-37565442
 
 Hernán Alvarenga De Pedro. (2020, 23 julio). _Hibridaciones en tiempos de convergencia digital | Imágenes mutantes_. https://www.teseopress.com/imagenesmutantes/chapter/cine-desafios-como-industria-y-lenguaje/
+
+
+
+
+### **Re-descubriendo la hibridacion:** Sistema quirúrgico Da Vinci
+
+Los instrumentos quirúrgicos son, en esencia, extensiones de las manos de los cirujanos. Estos pueden ser manuales, como cuchillos o tijeras, o pueden ser motorizados, como cortadores eléctricos o sierras.
+
+A mayor habilidad del cirujano, menos invasiva es una intervención, lo que reduce el tiempo de recuperación y por ende, la duración de la hospitalización. En este contexto nace a finales del siglo XX en Silicon Valley, a partir de patentes militares y desarrollado por la empresa californiana **Intuitive Surgical Inc**., el sistema de operación **Da Vinci**, una plataforma robótica utilizada en cirugía mínimamente invasiva. Desde su creación, el sistema de operación Da Vinci ha **transformado la cirugía robótica** en todo el mundo, proporcionando resultados cada vez más satisfactorios a medida que se han desarrollado nuevas versiones de la plataforma.
+
+El sistema está compuesto por una consola de control y varios instrumentos quirúrgicos montados en brazos robóticos. El cirujano se sienta en la consola y utiliza unos controles para manipular los brazos robóticos y los instrumentos quirúrgicos. Los brazos robóticos están diseñados para ser controlados con gran precisión por el cirujano.
+
+![enter image description here](https://www.hmsanchinarro.com/PublishingImages/robot-da-vinci.JPG)
+
+Las habilidades adquiridas por el cirujano durante su formación, convierten al instrumental quirúrgico en un medio para curar pacientes. El uso de Da Vinci requiere igualmente la intervención humana y las habilidades clínicas del cirujano, pero potencia estas habilidades con una serie de características que lo hacen único:
+
+ 1. **Visión tridimensional** detallada del campo operatorio.
+ 2. Presencia de cuatro brazos que sostienen , **sin temblar y sin soltar, los instrumentos endoscópicos** y la cámara.
+ 3. **Extrema movilidad** de los instrumentos endoscópicos que permiten realizar movimientos intracorpóreos en todos los sentidos del espacio simulando intuitivamente los de la mano humana.
+ 4. Posibilidad de operar a cientos de kilómetros de **distancia**.
+
+Estas características redefinen la forma moderna de operar gracias a su fusión con la multimedia y la robótica.
+
+Por ejemplo, la visión tridimensional de alta definición proporciona al cirujano una visión del campo quirúrgico ampliado y nítido, de manera que puede tratar áreas anatómicas difícilmente anatómicas.
+
+Por otro lado, la posibilidad de ser controlado de forma remota, elimina el componente de la ubicuidad, permitiendo que un especialista pueda operar a un paciente desde la otra punta del planeta, eliminando barreras que hace unos años eran impensables.
+
+En definitiva, la hibridación entre humano y robot, mimetizando los brazos de uno y de otro, abre un mundo de posibilidades médicas más allá de la sala de operaciones, desde la creación prótesis, a exoesqueletos o robots asistidos para el cuidado de personas, y su control local o remoto, hace que sea difícil imaginar los límites que puede alcanzar esta tecnología.
+
+**Enlaces**
+> The da Vinci Si System Overview: https://www.youtube.com/watch?v=0VGgDT-IzFs&t=3s
+> 
+> da Vinci Robot Stitches a Grape Back Together: https://www.youtube.com/watch?v=0XdC1HUp-rU
+
+
+**Bibliografía**
+
+Miranda, J. C. A. (2018, 23 junio). _EL INSTRUMENTAL QUIRÚRGICO. Algo de su Historia._ https://www.linkedin.com/pulse/el-instrumental-quir%C3%BArgico-algo-de-su-historia-albarracin-miranda/?originalSubdomain=es
+
+hm sanchinarro. (2015). _Cirugía Robótica._ https://www.hmsanchinarro.com/especialidades/programas-medicos/robot-da-vinci
+
+BBC News Mundo. (2014, 27 mayo). _Los cirujanos que operan a cientos de kilómetros de distancia_. https://www.bbc.com/mundo/noticias/2014/05/140520_vert_fut_salud_cirujano_a_distancia_gtg
