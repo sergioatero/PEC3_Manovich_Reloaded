@@ -4,6 +4,10 @@
 
 Autor: Sergio Atero
 
+### **¿Qué es la hibridación de medios?**
+
+Según Manovich, la combinación de elementos de diferentes medios y formas de representación crea nuevos productos culturales y artísticos. A diferencia de la multimedia, en los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos.
+
 ### **Re-descubriendo la hibridación:** VRPharma
 
 El dolor es una sensación física desagradable que se produce como resultado de una lesión o enfermedad.
@@ -23,6 +27,8 @@ Pensemos por ejemplo en la aplicación de una vacuna. Por un lado tenemos un dol
 Este último caso no solo es aplicable a pacientes, sino también a **personal sanitario** que en muchos momentos pueden verse sometidos a niveles de presión y estrés muy elevados (sin ir muy lejos, la reciente pandemia por COVID-19).
 
 Los primeros resultados de la tecnología de **VRPharma** arrojan evidencias de la reducción de estrés tanto en sanitarios como en pacientes, llegando incluso a una disminución de suministro de fármacos para paliar el dolor, creando así un nuevo metamedio que hibrida la atención médica con los videojuegos y los medios audiovisuales.
+
+La introducción de esta tecnología supone una nueva forma de recibir los tratamientos contra el dolor y de gestionar la ansiedad desde un 
 
 ![enter image description here](https://vrpharma.io/wp-content/uploads/2022/01/DSC_0902-min-scaled.jpg)
 
@@ -63,11 +69,11 @@ En definitiva, la hibridación entre humano y robot, mimetizando los brazos de u
 > da Vinci Robot Stitches a Grape Back Together: https://www.youtube.com/watch?v=0XdC1HUp-rU
 
 
-### **Conclusiones**
+### **Valoraciones personales**
 
 He planteado dos casos un poco alejados de la visión cultural de Manovich, ya que están orientados al ámbito sanitario, pero creo que estos, al igual que pasó en su momento con los artilugios ideados por Julio Verne, han sido concebidos primero en obras de ficción (Las "mechas" de Macross o Robotech, el manejo de interfaces de Minority Report o la concepción de mundos virtuales de Tron) y han servido de inspiración para los ingenieros que crecieron alimentados por esas historias.
 
-Como planteaba la pregunta inicial de la PEC, en mi opinión, si Manovich tuviera que volver a escribir su libro, incluiría campos más allá de la cultura, como el de la medicina, el de la contrucción o el de la investigación, donde las barreras entre disciplinas se van difuminando para tratarse desde un enfoque más holístico.
+En respuesta a la pregunta inicial de la PEC, en mi opinión, si Manovich tuviera que volver a escribir su libro, incluiría campos más allá de la cultura, como el de la medicina, el de la contrucción o el de la investigación, donde las barreras entre disciplinas se van difuminando para tratarse desde un enfoque más holístico.
 
 **Bibliografía**
 
