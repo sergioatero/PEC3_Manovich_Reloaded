@@ -62,7 +62,7 @@ Las habilidades adquiridas por el cirujano durante su formación, convierten al 
 
 Estas características redefinen la forma moderna de operar gracias a su fusión con la multimedia y la robótica.
 
-Por ejemplo, la visión tridimensional de alta definición proporciona al cirujano una visión del campo quirúrgico ampliado y nítido, de manera que puede tratar áreas anatómicas difícilmente anatómicas.
+Por ejemplo, la visión tridimensional de alta definición proporciona al cirujano una visión del campo quirúrgico ampliado y nítido, de manera que puede tratar áreas anatómicas difícilmente accesibles.
 
 Por otro lado, la posibilidad de ser controlado de forma remota, elimina el componente de la ubicuidad, permitiendo que un especialista pueda operar a un paciente desde la otra punta del planeta, eliminando barreras que hace unos años eran impensables.
 
