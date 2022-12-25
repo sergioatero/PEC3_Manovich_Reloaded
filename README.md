@@ -32,17 +32,6 @@ Los primeros resultados de la tecnología de **VRPharma** arrojan evidencias de 
 > Resultados clínicos: https://www.youtube.com/watch?v=ab9Ym8c9HkA
 
 
-**Bibliografía**
-
-_Inicio_. (2022, 14 junio). VRPharma - Virtual Reality for Patient Care. https://vrpharma.io/es/inicio/
-
-BBC News Mundo. (2016b, octubre 5). _5 métodos para controlar el dolor con la mente_. https://www.bbc.com/mundo/noticias-37565442
-
-Hernán Alvarenga De Pedro. (2020, 23 julio). _Hibridaciones en tiempos de convergencia digital | Imágenes mutantes_. https://www.teseopress.com/imagenesmutantes/chapter/cine-desafios-como-industria-y-lenguaje/
-
-
-
-
 ### **Re-descubriendo la hibridación:** Sistema quirúrgico Da Vinci
 
 Los instrumentos quirúrgicos son, en esencia, extensiones de las manos de los cirujanos. Estos pueden ser manuales, como cuchillos o tijeras, o pueden ser motorizados, como cortadores eléctricos o sierras.
@@ -74,7 +63,20 @@ En definitiva, la hibridación entre humano y robot, mimetizando los brazos de u
 > da Vinci Robot Stitches a Grape Back Together: https://www.youtube.com/watch?v=0XdC1HUp-rU
 
 
+### **Conclusiones**
+
+He planteado dos casos un poco alejados de la visión cultural de Manovich, ya que están orientados al ámbito sanitario, pero creo que estos, al igual que pasó en su momento con los artilugios ideados por Julio Verne, han sido concebidos primero en obras de ficción (Las "mechas" de Macross o Robotech, el manejo de interfaces de Minority Report o la concepción de mundos virtuales de Tron) y han servido de inspiración para los ingenieros que crecieron alimentados por esas historias.
+
+Como planteaba la pregunta inicial de la PEC, en mi opinión, si Manovich tuviera que volver a escribir su libro, incluiría campos más allá de la cultura, como el de la medicina, el de la contrucción o el de la investigación, donde las barreras entre disciplinas se van difuminando para tratarse desde un enfoque más holístico.
+
 **Bibliografía**
+
+
+_Inicio_. (2022, 14 junio). VRPharma - Virtual Reality for Patient Care. https://vrpharma.io/es/inicio/
+
+BBC News Mundo. (2016b, octubre 5). _5 métodos para controlar el dolor con la mente_. https://www.bbc.com/mundo/noticias-37565442
+
+Hernán Alvarenga De Pedro. (2020, 23 julio). _Hibridaciones en tiempos de convergencia digital | Imágenes mutantes_. https://www.teseopress.com/imagenesmutantes/chapter/cine-desafios-como-industria-y-lenguaje/
 
 Miranda, J. C. A. (2018, 23 junio). _EL INSTRUMENTAL QUIRÚRGICO. Algo de su Historia._ https://www.linkedin.com/pulse/el-instrumental-quir%C3%BArgico-algo-de-su-historia-albarracin-miranda/?originalSubdomain=es
 
