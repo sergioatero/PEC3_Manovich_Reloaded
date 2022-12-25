@@ -4,7 +4,7 @@
 
 Autor: Sergio Atero
 
-### **Re-descubriendo la hibridacion:** VRPharma
+### **Re-descubriendo la hibridación:** VRPharma
 
 El dolor es una sensación física desagradable que se produce como resultado de una lesión o enfermedad.
 
@@ -43,7 +43,7 @@ Hernán Alvarenga De Pedro. (2020, 23 julio). _Hibridaciones en tiempos de conve
 
 
 
-### **Re-descubriendo la hibridacion:** Sistema quirúrgico Da Vinci
+### **Re-descubriendo la hibridación:** Sistema quirúrgico Da Vinci
 
 Los instrumentos quirúrgicos son, en esencia, extensiones de las manos de los cirujanos. Estos pueden ser manuales, como cuchillos o tijeras, o pueden ser motorizados, como cortadores eléctricos o sierras.
 
@@ -57,7 +57,7 @@ Las habilidades adquiridas por el cirujano durante su formación, convierten al 
 
  1. **Visión tridimensional** detallada del campo operatorio.
  2. Presencia de cuatro brazos que sostienen , **sin temblar y sin soltar, los instrumentos endoscópicos** y la cámara.
- 3. **Extrema movilidad** de los instrumentos endoscópicos que permiten realizar movimientos intracorpóreos en todos los sentidos del espacio simulando intuitivamente los de la mano humana.
+ 3. **Extrema movilidad** de los instrumentos endoscópicos que permiten realizar movimientos intracorpóreos en todos los sentidos del espacio simulando intuitivamente los de la mano humana (El video de Da Vinci suturando a una uva, adjunto en los enlaces, nos puede dar pistas de los niveles de precisión que puede alcanzar el sistema).
  4. Posibilidad de operar a cientos de kilómetros de **distancia**.
 
 Estas características redefinen la forma moderna de operar gracias a su fusión con la multimedia y la robótica.
