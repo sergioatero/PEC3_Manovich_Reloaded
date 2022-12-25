@@ -28,7 +28,7 @@ Este último caso no solo es aplicable a pacientes, sino también a **personal s
 
 Los primeros resultados de la tecnología de **VRPharma** arrojan evidencias de la reducción de estrés tanto en sanitarios como en pacientes, llegando incluso a una disminución de suministro de fármacos para paliar el dolor, creando así un nuevo metamedio que hibrida la atención médica con los videojuegos y los medios audiovisuales.
 
-La introducción de esta tecnología supone una nueva forma de recibir los tratamientos contra el dolor y de gestionar la ansiedad desde un 
+La introducción de esta tecnología supone una  forma de recibir los tratamientos contra el dolor y de gestionar la ansiedad desde un nuevo medio resultante de la hibridación del equipamiento médico y la Realidad Virtual.
 
 ![enter image description here](https://vrpharma.io/wp-content/uploads/2022/01/DSC_0902-min-scaled.jpg)
 
